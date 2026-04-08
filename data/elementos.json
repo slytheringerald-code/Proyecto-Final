@@ -1,0 +1,26 @@
+[
+    {
+          "id": "1",
+          "nombre": "API de Autenticacion",
+          "descripcion": "Servicio para gestionar tokens JWT y perfiles de usuario.",
+          "fechaCreacion": "2026-04-06T23:22:00.000Z"
+    },
+    {
+          "id": "2",
+          "nombre": "Microservicio de Inventario",
+          "descripcion": "Control en tiempo real de los recursos del sistema.",
+          "fechaCreacion": "2026-04-06T23:22:05.000Z"
+    },
+    {
+          "id": "3",
+          "nombre": "Pasarela de Pagos",
+          "descripcion": "Integracion con Stripe para el procesamiento financiero.",
+          "fechaCreacion": "2026-04-06T23:22:10.000Z"
+    },
+    {
+          "id": "4",
+          "nombre": "Panel de Control",
+          "descripcion": "Interfaz administrativa para la supervision global.",
+          "fechaCreacion": "2026-04-06T23:22:15.000Z"
+    }
+]
